@@ -22,8 +22,8 @@ Input format, for a 3X3 grid,
 
 **python rameses.py 3 .x......x 5**
 
-where n is 3
-.x......x is the element order in row
+where n is 3  
+.x......x is the element order in row  
 5 is the next position where the element should be placed
 
 
