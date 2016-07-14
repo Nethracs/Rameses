@@ -16,7 +16,7 @@ step5:output the favourable position
 step6:Exit on filling the row,column and diagonal and print Exit message Game over  
 
 
-#steps to run the code
+#Steps to run the code
 
 Input format, for a 3X3 grid,
 
