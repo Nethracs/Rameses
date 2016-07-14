@@ -18,9 +18,7 @@ step6:Exit on filling the row,column and diagonal and print Exit message Game ov
 
 #steps to run the code
 
-Input format 
-
-For a 3X3 grid,
+Input format, for a 3X3 grid,
 
 **python rameses.py 3 .x......x 5**
 
